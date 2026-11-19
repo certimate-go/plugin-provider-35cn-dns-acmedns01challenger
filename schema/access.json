@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "35cn",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "username",
+        "valueType": "text",
+        "labelKey": "plugin.35cn-dns.access.username.label",
+        "placeholderKey": "plugin.35cn-dns.access.username.placeholder",
+        "required": true
+      },
+      {
+        "name": "apiPassword",
+        "valueType": "secret",
+        "labelKey": "plugin.35cn-dns.access.apiPassword.label",
+        "placeholderKey": "plugin.35cn-dns.access.apiPassword.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}

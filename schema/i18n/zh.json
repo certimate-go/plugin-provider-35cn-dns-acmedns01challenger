@@ -1,0 +1,8 @@
+{
+  "plugin.35cn-dns.name": "三五互联",
+  "plugin.35cn-dns.description": "通过 三五互联 完成 ACME DNS-01 验证。",
+  "plugin.35cn-dns.access.username.label": "三五互联代理商用户名",
+  "plugin.35cn-dns.access.username.placeholder": "请输入三五互联代理商用户名",
+  "plugin.35cn-dns.access.apiPassword.label": "三五互联代理商 API 密码",
+  "plugin.35cn-dns.access.apiPassword.placeholder": "请输入三五互联代理商 API 密码"
+}

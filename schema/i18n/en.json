@@ -1,0 +1,8 @@
+{
+  "plugin.35cn-dns.name": "35.cn",
+  "plugin.35cn-dns.description": "ACME DNS-01 via 35.cn.",
+  "plugin.35cn-dns.access.username.label": "35.cn agent username",
+  "plugin.35cn-dns.access.username.placeholder": "Please enter West.cn agent username",
+  "plugin.35cn-dns.access.apiPassword.label": "35.cn agent API password",
+  "plugin.35cn-dns.access.apiPassword.placeholder": "Please enter West.cn agent API password"
+}
